@@ -20,5 +20,8 @@ Install all dependencies:
 pip install -r requirements.txt
 
 
+pip install -r requirements.txt
+
+
 
 ![image](https://github.com/user-attachments/assets/6d497d75-5191-44dc-8f12-5aa74b1ac981)
